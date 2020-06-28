@@ -1,0 +1,15 @@
+{
+    "name": "Location",
+    "version": "1.0.0",
+    "author": "InfiniteLoop",
+    "description": "She know where you are",
+    "long-description": "",
+    "main": "main.py",
+    "requirements": "requirements.txt",
+    "commands": {
+        "location": {
+            "target": "location",
+            "keywords": ["am I where"]
+        }
+    }
+}

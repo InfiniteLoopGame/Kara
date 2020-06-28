@@ -1,0 +1,14 @@
+{
+    "name": "Has Sam Uploaded a Video?",
+    "version": "0.1.0",
+    "author": "InfiniteLoop",
+    "description": "Funni Sam Video Upload Chek",
+    "long-description": "",
+    "main": "main.py",
+    "commands": {
+        "Sam": {
+            "target": "sam",
+            "keywords": ["sam hogan", "sam upload", "sam video", "hogan upload", "hogan video"]
+        }
+    }
+}

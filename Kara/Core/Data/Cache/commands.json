@@ -1,1 +1,121 @@
-{}
+[
+    {
+        "keywords": [
+            "flip coin"
+        ],
+        "target": "coinflip"
+    },
+    {
+        "keywords": [
+            "roll dice"
+        ],
+        "target": "diceroll"
+    },
+    {
+        "keywords": [
+            "hello",
+            "hi",
+            "hey"
+        ],
+        "target": "greeting"
+    },
+    {
+        "keywords": [
+            "how you"
+        ],
+        "target": "howru"
+    },
+    {
+        "keywords": [
+            "repeat",
+            "again"
+        ],
+        "target": "repeat"
+    },
+    {
+        "keywords": [
+            "thank",
+            "thanks"
+        ],
+        "target": "thanks"
+    },
+    {
+        "keywords": [
+            "+",
+            "-",
+            "x",
+            "/",
+            "^",
+            "squared",
+            "square root",
+            "sign",
+            "cosine",
+            "tangent"
+        ],
+        "target": "generalMaths"
+    },
+    {
+        "keywords": [
+            "date"
+        ],
+        "target": "currentDate"
+    },
+    {
+        "keywords": [
+            "month"
+        ],
+        "target": "currentMonth"
+    },
+    {
+        "keywords": [
+            "time"
+        ],
+        "target": "currentTime"
+    },
+    {
+        "keywords": [
+            "year"
+        ],
+        "target": "currentYear"
+    },
+    {
+        "keywords": [
+            "what air pressure"
+        ],
+        "target": "airPressure"
+    },
+    {
+        "keywords": [
+            "when sun rise"
+        ],
+        "target": "sunrise"
+    },
+    {
+        "keywords": [
+            "when sun set"
+        ],
+        "target": "sunset"
+    },
+    {
+        "keywords": [
+            "weather"
+        ],
+        "target": "weather"
+    },
+    {
+        "keywords": [
+            "am I where"
+        ],
+        "target": "location"
+    },
+    {
+        "keywords": [
+            "sam hogan",
+            "sam upload",
+            "sam video",
+            "hogan upload",
+            "hogan video"
+        ],
+        "target": "sam"
+    }
+]

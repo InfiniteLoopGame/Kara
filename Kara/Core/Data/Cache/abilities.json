@@ -1,1 +1,160 @@
-{}
+{
+    "Kara_General": {
+        "commands": {
+            "coinflip": {
+                "keywords": [
+                    "flip coin"
+                ],
+                "target": "coinflip"
+            },
+            "diceroll": {
+                "keywords": [
+                    "roll dice"
+                ],
+                "target": "diceroll"
+            },
+            "greeting": {
+                "keywords": [
+                    "hello",
+                    "hi",
+                    "hey"
+                ],
+                "target": "greeting"
+            },
+            "howru": {
+                "keywords": [
+                    "how you"
+                ],
+                "target": "howru"
+            },
+            "repeat": {
+                "keywords": [
+                    "repeat",
+                    "again"
+                ],
+                "target": "repeat"
+            },
+            "thanks": {
+                "keywords": [
+                    "thank",
+                    "thanks"
+                ],
+                "target": "thanks"
+            }
+        },
+        "main": "main.py",
+        "requirements": "",
+        "version": "1.0.0"
+    },
+    "Kara_Maths": {
+        "commands": {
+            "math": {
+                "keywords": [
+                    "+",
+                    "-",
+                    "x",
+                    "/",
+                    "^",
+                    "squared",
+                    "square root",
+                    "sign",
+                    "cosine",
+                    "tangent"
+                ],
+                "target": "generalMaths"
+            }
+        },
+        "main": "main.py",
+        "version": "1.0.0"
+    },
+    "Kara_Time": {
+        "commands": {
+            "date": {
+                "keywords": [
+                    "date"
+                ],
+                "target": "currentDate"
+            },
+            "month": {
+                "keywords": [
+                    "month"
+                ],
+                "target": "currentMonth"
+            },
+            "time": {
+                "keywords": [
+                    "time"
+                ],
+                "target": "currentTime"
+            },
+            "year": {
+                "keywords": [
+                    "year"
+                ],
+                "target": "currentYear"
+            }
+        },
+        "main": "main.py",
+        "version": "1.0.0"
+    },
+    "Kara_Weather": {
+        "commands": {
+            "air-pressure": {
+                "keywords": [
+                    "what air pressure"
+                ],
+                "target": "airPressure"
+            },
+            "sun-rise": {
+                "keywords": [
+                    "when sun rise"
+                ],
+                "target": "sunrise"
+            },
+            "sun-set": {
+                "keywords": [
+                    "when sun set"
+                ],
+                "target": "sunset"
+            },
+            "weather": {
+                "keywords": [
+                    "weather"
+                ],
+                "target": "weather"
+            }
+        },
+        "main": "main.py",
+        "requirements": "requirements.txt",
+        "version": "1.0.0"
+    },
+    "Location": {
+        "commands": {
+            "location": {
+                "keywords": [
+                    "am I where"
+                ],
+                "target": "location"
+            }
+        },
+        "main": "main.py",
+        "requirements": "requirements.txt",
+        "version": "1.0.0"
+    },
+    "Sam_Video": {
+        "commands": {
+            "Sam": {
+                "keywords": [
+                    "sam hogan",
+                    "sam upload",
+                    "sam video",
+                    "hogan upload",
+                    "hogan video"
+                ],
+                "target": "sam"
+            }
+        },
+        "main": "main.py",
+        "version": "0.1.0"
+    }
+}
